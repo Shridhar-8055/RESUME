@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <h6>Shridhar S Teradal </h6>
+  <h1>Shridhar S Teradal </h1>
   <link rel="stylesheet" href="portfolio.css" />
 </head>
 <body>
