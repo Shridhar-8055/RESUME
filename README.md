@@ -8,7 +8,7 @@
 <body>
   <header>
     <div class="container">
-      <h3>Shridhar S Teradal</h3>
+      <h2>Shridhar S Teradal</h2>
       <p>Bengaluru, Karnataka, India</p>
       <p><a href="mailto:teradalshridhar@gmail.com">teradalshridhar@gmail.com</a> | +91 8861183261</p>
       <p><a href="https://www.linkedin.com/in/shridhar-s-teradal-873a1b318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn Profile</a></p>
